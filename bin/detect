@@ -1,0 +1,6 @@
+#!/bin/sh
+
+BUILD_DIR=$1
+
+echo "Hugo"
+exit 0
