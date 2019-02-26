@@ -1,6 +1,4 @@
 #!/bin/sh
 
-BUILD_DIR=$1
-
-echo "Putting binary in ${BUILD_DIR}/hugo"
+echo "Hugo"
 exit 0
