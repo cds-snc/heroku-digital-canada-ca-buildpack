@@ -2,5 +2,5 @@
 
 BUILD_DIR=$1
 
-echo "Hugo"
+echo "Putting binary in ${BUILD_DIR}/hugo"
 exit 0
